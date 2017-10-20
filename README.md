@@ -1,7 +1,7 @@
 # colourful-Crap
 This is a new tab modifier chrome extension.
 To use this extension , go to your chrome browser and type.
-chrome://extension
+chrome://extensions
 after that you will be taken to a page.
 now first check whether developer options in right is checked or not. 
 If checked then click on the load unpacked extension button and browse to the folder where you have your downloaded this file in zip

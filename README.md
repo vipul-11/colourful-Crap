@@ -8,3 +8,8 @@ If checked then click on the load unpacked extension button and browse to the fo
 (It should be unzipped before use).
 If the process is successful , the extension will appear in the list down below.
 Now just open up a new tab and enjoy.
+
+
+# Last Update 23 Oct , 2017.
+This update involves , features :-
+You can add new quotes to all the default quotes.

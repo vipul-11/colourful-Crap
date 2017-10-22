@@ -3,7 +3,7 @@
 	// description in the description of extension (optional)
 	"manifest_version": 2,
 	"name": "Colorful Crap",
-	"version": "1.0",
+	"version": "2.0",
 	"description": "This extension modifies your newtab to let you get inspired",
 	// It is going to an object that has three images of size 128,48,16
 	/*"icons": {
@@ -11,6 +11,9 @@
  		"48": "icon48.png",
  		"16": "icon16.png"
 	},*/
+	"browser_action" : {
+		"default_popup" : "popup.html"
+	},
 	"chrome_url_overrides" : {
 		"newtab" : "newtab.html"
 	},
